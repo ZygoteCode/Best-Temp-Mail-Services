@@ -28,7 +28,7 @@ Here's a detailed overview of the temporary email services provided:
 * **Description:** DisposableMail provides a simple and user-friendly platform for creating temporary email addresses. It's designed for quick and easy use without requiring any registration.
 * **Key Features:** Easy to use, no registration needed, simple inbox.
 
-### 5. [✉ Guerrilla Mail - Disposable Temporary E-Mail Address](https://www.guerrillamail.com/)
+### 5. [Guerrilla Mail - Disposable Temporary E-Mail Address](https://www.guerrillamail.com/)
 
 * **Description:** Guerrilla Mail is a well-established service that allows users to both receive and send emails. It offers a unique feature where the email address expires after a certain period of inactivity.
 * **Key Features:** Sending and receiving emails, customizable email address (to some extent), email self-destruct.
