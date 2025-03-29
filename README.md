@@ -85,8 +85,6 @@ Here's a detailed overview of the temporary email services provided:
 
 ### 16. [https://10minutemail.com/](https://10minutemail.com/)
 
-* **Description:** This URL redirects to [https://temp-mail.org/](https://temp-mail.org/), which is described above.
-
 ### 17. [https://temporarymail.com/en/](https://temporarymail.com/en/)
 
 * **Description:** TemporaryMail.com offers a simple and direct approach to temporary email addresses. It provides a basic inbox for receiving emails.
@@ -108,8 +106,6 @@ Here's a detailed overview of the temporary email services provided:
 * **Key Features:** Basic and easy to understand.
 
 ### 21. [https://10minemail.com/](https://10minemail.com/)
-
-* **Description:** This URL redirects to the original [https://10minutemail.com/](https://10minutemail.com/) service, described above.
 
 ### 22. [https://maildax.com/](https://maildax.com/)
 
