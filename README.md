@@ -117,6 +117,10 @@ Here's a detailed overview of the temporary email services provided:
 * **Description:** TempMailo offers a temporary email service with a clean and modern interface. It often includes features like multiple inboxes and easy management of temporary addresses.
 * **Key Features:** Modern interface, potentially offers multiple inboxes, easy to manage.
 
+### 24. [https://www.mohmal.com/en/inbox](https://www.mohmal.com/en/inbox)
+
+### 25. [https://tempmail.email/](https://tempmail.email/)
+
 ## Top Recommended Temporary Email Services
 
 Based on features and usability, here are a few top recommendations:
